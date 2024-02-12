@@ -1,0 +1,149 @@
+﻿Variable,D1,D2,meta_indicatorid
+Población de 15 años y más,Población económicamente activa (PEA),Total,444557
+Población de 15 años y más,Población no económicamente activa (PNEA),Total,444558
+Población económicamente activa,Población ocupada,Total,444559
+Población económicamente activa,Población desocupada,Total,444560
+Población ocupada,Por nivel de instrucción,Primaria incompleta,444561
+Población ocupada,Por nivel de instrucción,Con primaria completa,444562
+Población ocupada,Por nivel de instrucción,Con secundaria completa,444563
+Población ocupada,Por nivel de instrucción,Medio superior y superior,444564
+Población ocupada,Por nivel de instrucción,No especificado,444565
+Población ocupada,Por posición en la ocupación,Trabajadores subordinados y remunerados,444566
+Población ocupada,Por posición en la ocupación,Empleadores,444567
+Población ocupada,Por posición en la ocupación,Trabajadores por cuenta propia,444568
+Población ocupada,Por posición en la ocupación,Trabajadores no remunerados,444569
+Población ocupada,Por posición en la ocupación,No especificado,444570
+Población ocupada,Por sector de actividad económica,Total,668906
+Población ocupada,Por sector de actividad económica,"Primario (agricultura, ganadería, silvicultura, caza y pesca)",668907
+Población ocupada,Por sector de actividad económica,No especificado,668920
+Población desocupada,Por nivel de instrucción,Primaria incompleta,444578
+Población desocupada,Por nivel de instrucción,Con primaria completa,444579
+Población desocupada,Por nivel de instrucción,Con secundaria completa,444580
+Población desocupada,Por nivel de instrucción,Medio superior y superior,444581
+Población desocupada,Por nivel de instrucción,No especificado,444582
+Población desocupada,Por antecedentes laborales,Con experiencia,444583
+Población desocupada,Por antecedentes laborales,Sin experiencia,444584
+Población subocupada,Por nivel de instrucción,Primaria incompleta,444585
+Población subocupada,Por nivel de instrucción,Con primaria completa,444586
+Población subocupada,Por nivel de instrucción,Con secundaria completa,444587
+Población subocupada,Por nivel de instrucción,Medio superior y superior,444588
+Población subocupada,Por nivel de instrucción,No especificado,444589
+Población subocupada,Por posición en la ocupación,Trabajadores subordinados y remunerados,444590
+Población subocupada,Por posición en la ocupación,Empleadores,444591
+Población subocupada,Por posición en la ocupación,Trabajadores por cuenta propia,444592
+Población subocupada,Por posición en la ocupación,Trabajadores no remunerados,444593
+Población subocupada,Por posición en la ocupación,No especificado,444594
+Población subocupada,Por sector de actividad económica,Total,668936
+Población subocupada,Por sector de actividad económica,"Primario (agricultura, ganadería, silvicultura, caza y pesca)",668937
+Población subocupada,Por sector de actividad económica,No especificado,668950
+Población total,Total,Total,289242
+Población de 15 años y más,Total,Total,289243
+Población ocupada por sector,Total,Total,289250
+Población ocupada por sector,Total,Primario,289251
+Población ocupada por sector,Total,Secundario,289252
+Población ocupada por sector,Total,Terciario,289253
+Población ocupada por sector,Total,No especificado,289254
+Población ocupada por duración jornada,Total,Total,289255
+Población ocupada por duración jornada,Total,Ausentes temporales con vínculo laboral,289256
+Población ocupada por duración jornada,Total,Menos de 15 horas,289257
+Población ocupada por duración jornada,Total,De 15 a 34 horas,289258
+Población ocupada por duración jornada,Total,De 35 a 48 horas,289259
+Población ocupada por duración jornada,Total,Más de 48 horas,289260
+Población ocupada por duración jornada,Total,No especificado,289261
+Población ocupada por ámbito,Total,Total,289262
+Población ocupada por ámbito,Total,Ámbito agropecuario,289263
+Población ocupada por ámbito,Total,No especificado,289271
+Población ocupada por posición,Total,Total,289272
+Población ocupada por posición,Total,Trabajadores subordinados remunerados,289273
+Población ocupada por posición,Total,Empleadores,289274
+Población ocupada por posición,Total,Trabajadores por cuenta propia,289275
+Población ocupada por posición,Total,Trabajadores no remunerados,289276
+Población ocupada por posición,Total,No especificado,289277
+Población subocupada por posición,Total,Total,289278
+Población subocupada por posición,Total,Trabajadores subordinados remunerados,289279
+Población subocupada por posición,Total,Empleadores,289280
+Población subocupada por posición,Total,Trabajadores por cuenta propia,289281
+Población subocupada por posición,Total,Trabajadores no remunerados,289282
+Población subocupada por posición,Total,No especificado,289283
+Población subocupada por sector,Total,Total,289284
+Población subocupada por sector,Total,Primario,289285
+Población subocupada por sector,Total,Secundario,289286
+Población subocupada por sector,Total,Terciario,289287
+Población subocupada por sector,Total,No especificado,289288
+Población desocupada,Total,Total,289289
+Población desocupada,Total,Con experiencia,289290
+Población desocupada,Total,Sin experiencia,289291
+Población total,Hombres,Total,289292
+Población de 15 años y más,Hombres,Total,289293
+Población ocupada por sector,Hombres,Total,289300
+Población ocupada por sector,Hombres,Primario,289301
+Población ocupada por sector,Hombres,Secundario,289302
+Población ocupada por sector,Hombres,Terciario,289303
+Población ocupada por sector,Hombres,No especificado,289304
+Población ocupada por duración jornada,Hombres,Total,289305
+Población ocupada por duración jornada,Hombres,Ausentes temporales con vínculo laboral,289306
+Población ocupada por duración jornada,Hombres,Menos de 15 horas,289307
+Población ocupada por duración jornada,Hombres,De 15 a 34 horas,289308
+Población ocupada por duración jornada,Hombres,De 35 a 48 horas,289309
+Población ocupada por duración jornada,Hombres,Más de 48 horas,289310
+Población ocupada por duración jornada,Hombres,No especificado,289311
+Población ocupada por ámbito,Hombres,Total,289312
+Población ocupada por ámbito,Hombres,Ámbito agropecuario,289313
+Población ocupada por ámbito,Hombres,No especificado,289321
+Población ocupada por posición,Hombres,Total,289322
+Población ocupada por posición,Hombres,Trabajadores subordinados remunerados,289323
+Población ocupada por posición,Hombres,Empleadores,289324
+Población ocupada por posición,Hombres,Trabajadores por cuenta propia,289325
+Población ocupada por posición,Hombres,Trabajadores no remunerados,289326
+Población ocupada por posición,Hombres,No especificado,289327
+Población subocupada por posición,Hombres,Total,289328
+Población subocupada por posición,Hombres,Trabajadores subordinados remunerados,289329
+Población subocupada por posición,Hombres,Empleadores,289330
+Población subocupada por posición,Hombres,Trabajadores por cuenta propia,289331
+Población subocupada por posición,Hombres,Trabajadores no remunerados,289332
+Población subocupada por posición,Hombres,No especificado,289333
+Población subocupada por sector,Hombres,Total,289334
+Población subocupada por sector,Hombres,Primario,289335
+Población subocupada por sector,Hombres,Secundario,289336
+Población subocupada por sector,Hombres,Terciario,289337
+Población subocupada por sector,Hombres,No especificado,289338
+Población desocupada,Hombres,Total,289339
+Población desocupada,Hombres,Con experiencia,289340
+Población desocupada,Hombres,Sin experiencia,289341
+Población total,Mujeres,Total,289342
+Población de 15 años y más,Mujeres,Total,289343
+Población ocupada por sector,Mujeres,Total,289350
+Población ocupada por sector,Mujeres,Primario,289351
+Población ocupada por sector,Mujeres,Secundario,289352
+Población ocupada por sector,Mujeres,Terciario,289353
+Población ocupada por sector,Mujeres,No especificado,289354
+Población ocupada por duración jornada,Mujeres,Total,289355
+Población ocupada por duración jornada,Mujeres,Ausentes temporales con vínculo laboral,289356
+Población ocupada por duración jornada,Mujeres,Menos de 15 horas,289357
+Población ocupada por duración jornada,Mujeres,De 15 a 34 horas,289358
+Población ocupada por duración jornada,Mujeres,De 35 a 48 horas,289359
+Población ocupada por duración jornada,Mujeres,Más de 48 horas,289360
+Población ocupada por duración jornada,Mujeres,No especificado,289361
+Población ocupada por ámbito,Mujeres,Total,289362
+Población ocupada por ámbito,Mujeres,Ámbito agropecuario,289363
+Población ocupada por ámbito,Mujeres,No especificado,289371
+Población ocupada por posición,Mujeres,Total,289372
+Población ocupada por posición,Mujeres,Trabajadores subordinados remunerados,289373
+Población ocupada por posición,Mujeres,Empleadores,289374
+Población ocupada por posición,Mujeres,Trabajadores por cuenta propia,289375
+Población ocupada por posición,Mujeres,Trabajadores no remunerados,289376
+Población ocupada por posición,Mujeres,No especificado,289377
+Población subocupada por posición,Mujeres,Total,289378
+Población subocupada por posición,Mujeres,Trabajadores subordinados remunerados,289379
+Población subocupada por posición,Mujeres,Empleadores,289380
+Población subocupada por posición,Mujeres,Trabajadores por cuenta propia,289381
+Población subocupada por posición,Mujeres,Trabajadores no remunerados,289382
+Población subocupada por posición,Mujeres,No especificado,289383
+Población subocupada por sector,Mujeres,Total,289384
+Población subocupada por sector,Mujeres,Primario,289385
+Población subocupada por sector,Mujeres,Secundario,289386
+Población subocupada por sector,Mujeres,Terciario,289387
+Población subocupada por sector,Mujeres,No especificado,289388
+Población desocupada,Mujeres,Total,289389
+Población desocupada,Mujeres,Con experiencia,289390
+Población desocupada,Mujeres,Sin experiencia,289391
